@@ -86,7 +86,7 @@ Following are some of the samples
 
 After the training we were also supposed to create a video for multiple images with object detection done and upload to the youtube
 
-here is the link of the youtube video
+here is the link of the youtube video 
 ** https://www.youtube.com/shorts/bQiKnpnHSbg **
 
 
